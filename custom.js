@@ -1,2 +1,2 @@
-// I'm from Slider
-console.log("Hello World!");
+// I'm from Master
+alter("Hello World!");
